@@ -2,7 +2,7 @@
 baseurl = "https://citius-altius-fortius.info"
 languageCode = "en-us"
 paginate = 9
-title = "Citius-Altius-Fortius | Robert M.L. Snapper"
+title = "Citius Altius Fortius | Robert M.L. Snapper"
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
